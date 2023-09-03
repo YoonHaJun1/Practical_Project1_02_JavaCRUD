@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4684ef99-c8d6-43f1-b5e3-964187c5d66b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parking/ICRUD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parking/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parking/Park.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parking/ParkCRUD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parking/ParkManager.java" afterDir="false" />
-    </list>
+    <list default="true" id="4684ef99-c8d6-43f1-b5e3-964187c5d66b" name="Changes" comment="주차 관리 시스템" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,11 +55,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693722987282</updated>
-      <workItem from="1693722988305" duration="3059000" />
+      <workItem from="1693722988305" duration="3265000" />
     </task>
+    <task id="LOCAL-00001" summary="주차 관리 시스템">
+      <option name="closed" value="true" />
+      <created>1693726227168</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693726227168</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="주차 관리 시스템" />
+    <option name="LAST_COMMIT_MESSAGE" value="주차 관리 시스템" />
   </component>
 </project>
